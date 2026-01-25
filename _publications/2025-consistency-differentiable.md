@@ -1,5 +1,6 @@
 ---
 title: "Consistency Conditions for Differentiable Surrogate Losses"
+authors: "Drona Khurana, Anish Thilagar, Dhamma Kimpara, Rafael Frongillo"
 collection: publications
 permalink: /publication/consistency-differentiable/
 date: 2025-12-01
