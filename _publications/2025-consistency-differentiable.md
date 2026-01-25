@@ -8,3 +8,5 @@ venue: "NeurIPS 2025"
 category: conferences
 paperurl: "https://arxiv.org/abs/2505.13760"
 ---
+
+Accepted to NeurIPS 2025.
