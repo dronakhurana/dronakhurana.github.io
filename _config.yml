@@ -21,16 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author: default
-  # Biographic information
-  avatar           : ""
+author:
   name             : "Drona Khurana"
-  pronouns         : # example: "she/her"  
+  avatar           : ""
   bio              : "PhD student in the CS Theory group at CU Boulder. Interests: surrogate losses, property elicitation, optimization."
   location         : "Boulder, Colorado"
   employer         : "University of Colorado Boulder"
-  uri              : # URL
-  email            : "none@example.org" 
+  email            : "drona.khurana@colorado.edu"
 
   # Academic websites
   academia         : # URL
