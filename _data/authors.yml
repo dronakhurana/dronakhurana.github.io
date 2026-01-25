@@ -1,6 +1,6 @@
 # Authors
 
-Name Name:
+default:
   name        : "Drona Khurana"
   uri         : "https://name.com"
   email       : "drona.khurana@colorado.edu"
@@ -9,6 +9,7 @@ Name Name:
   twitter     : "name"
   google_plus : "Name"
 
+# (optional) keep this second one or delete it
 Name2 Name2:
   name        : "Name2 Name2"
   email       : "name2@name2.com"
