@@ -7,4 +7,5 @@ date: 2025-12-01
 venue: "NeurIPS 2025"
 category: conferences
 paperurl: "https://arxiv.org/abs/2505.13760"
+redirect_to: "https://arxiv.org/abs/2505.13760"
 ---
