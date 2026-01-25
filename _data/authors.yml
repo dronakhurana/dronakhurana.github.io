@@ -1,11 +1,11 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
+  name        : "Drona Khurana"
   uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
+  email       : "drona.khurana@colorado.edu"
+  bio         : "PhD student in the CS Theory group at CU Boulder. Interests: surrogate losses, property elicitation, optimization."
+  avatar      : "/images/d.jpeg"
   twitter     : "name"
   google_plus : "Name"
 
