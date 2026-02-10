@@ -48,11 +48,20 @@
 
     {% if post.collection == 'teaching' %}
       <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+
     {% elsif post.collection == 'publications' %}
+      {% assign year = post.date | default: "1900-01-01" | date: "%Y" %}
+
       {% if post.authors %}
         <p>{{ post.authors }}</p>
       {% endif %}
-      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+
+      {% if post.status == "under_submission" or post.venue contains "Under submission" or post.venue contains "Submitted" %}
+        <p><i>{{ post.venue }}</i>, {{ year }}</p>
+      {% else %}
+        <p>Published in <i>{{ post.venue }}</i>, {{ year }}</p>
+      {% endif %}
+
     {% elsif post.date %}
       <p class="page__date">
         <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong>
