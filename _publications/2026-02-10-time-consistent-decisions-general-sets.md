@@ -5,7 +5,5 @@ collection: publications
 permalink: /publication/time-consistent-decisions-general-sets/
 date: 2026-02-10
 venue: "Under submission"
-paperurl: ""
+status: under_submission
 ---
-
-α = authors listed alphabetically.
