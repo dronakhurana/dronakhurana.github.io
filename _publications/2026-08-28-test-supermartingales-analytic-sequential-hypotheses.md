@@ -1,5 +1,5 @@
 ---
-title: "Test supermartingales are complete for analytic sequential hypotheses"
+title: "Test supermartingales are complete for locally defined sequential hypotheses"
 authors: "Drona Khurana, Rafael Frongillo"
 collection: publications
 permalink: /publication/test-supermartingales-analytic-sequential-hypotheses/
