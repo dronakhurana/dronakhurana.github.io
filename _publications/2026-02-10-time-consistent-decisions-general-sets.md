@@ -6,4 +6,5 @@ permalink: /publication/time-consistent-decisions-general-sets/
 date: 2026-02-10
 venue: "Under submission"
 status: under_submission
+paperurl: "/files/time-consistency.pdf"
 ---
