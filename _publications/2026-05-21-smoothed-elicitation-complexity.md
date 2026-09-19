@@ -1,6 +1,6 @@
 ---
 title: "Smoothed Elicitation Complexity for Approximate Γ-calibration of Discrete Classification Tasks"
-authors: "Jessica Finocchiaro, Victor Ganson, Drona Khurana"
+authors: "α — Jessica Finocchiaro, Victor Ganson, Drona Khurana"
 collection: publications
 permalink: /publication/2605-23017/
 date: 2026-05-26
