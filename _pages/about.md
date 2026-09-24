@@ -4,7 +4,7 @@ permalink: /about/
 author_profile: true
 ---
 
-I’m a third-year PhD student in the [CS Theory Group](https://www.colorado.edu/cs-theory/) at the University of Colorado Boulder, advised by [Rafael Frongillo](https://raf.prof/) and [Stephen Becker](https://amath.colorado.edu/faculty/becker/?_gl=1*1630egp*_gcl_au*MTY0NzEzNjgyOC4xNzY3Njk4MDYz*_ga*MTEyMDI4MzMuMTcwNTU4NTkzOQ..*_ga_PTLN4XTG87*czE3NjkzMDA3ODgkbzQkZzAkdDE3NjkzMDA3ODgkajYwJGwwJGgxMjk5NDE1MDg0).
+I’m a fourth-year PhD student in the [CS Theory Group](https://www.colorado.edu/cs-theory/) at the University of Colorado Boulder, advised by [Rafael Frongillo](https://raf.prof/) and [Stephen Becker](https://amath.colorado.edu/faculty/becker/?_gl=1*1630egp*_gcl_au*MTY0NzEzNjgyOC4xNzY3Njk4MDYz*_ga*MTEyMDI4MzMuMTcwNTU4NTkzOQ..*_ga_PTLN4XTG87*czE3NjkzMDA3ODgkbzQkZzAkdDE3NjkzMDA3ODgkajYwJGwwJGgxMjk5NDE1MDg0).
 
 My research is in the foundations of statistical learning, with a focus on surrogate losses, property elicitation, and their interplay. I also work on problems in optimization, and more recently on game-theoretic statistics and probability.
 
